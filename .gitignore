@@ -1,2 +1,4 @@
+# ignore every sub directory __pycache__
 __pycache__/
+
 venv
